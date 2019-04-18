@@ -16,6 +16,6 @@ run `sh run.sh` to train models, extract features and calculate mAP.
 # Our Related Work
 If you are interested in cross-media retrieval, you can check our recently published overview paper on IEEE TCSVT:
 
-Yuxin Peng, Xin Huang, and Yunzhen Zhao, "An Overview of Cross-media Retrieval: Concepts, Methodologies, Benchmarks and Challenges", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Vol.28, No.9, pp.2372-2385, 2018.[[PDF]](http://59.108.48.34/tiki/download_paper.php?fileId=201823)
+Yuxin Peng, Xin Huang, and Yunzhen Zhao, "An Overview of Cross-media Retrieval: Concepts, Methodologies, Benchmarks and Challenges", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Vol.28, No.9, pp.2372-2385, 2018. [[PDF]](http://59.108.48.34/tiki/download_paper.php?fileId=201823)
 
 Welcome to our [Benchmark Website](http://www.icst.pku.edu.cn/mipl/xmedia) and [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information about our papers, source codes, and datasets.
