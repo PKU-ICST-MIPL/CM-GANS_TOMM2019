@@ -2,7 +2,7 @@
 
 This is the source code of our TOMM 2019 paper "CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning", Please cite the following paper if you find our code useful.
 
-Yuxin Peng, Jinwei Qi, "CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning", ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), Vol.15, No.1, pp.22:1-22:24, 2019. [online](https://dl.acm.org/citation.cfm?id=3284750)
+Yuxin Peng, Jinwei Qi, "CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning", ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), Vol.15, No.1, pp.22:1-22:24, 2019. [[PDF]](http://59.108.48.34/tiki/download_paper.php?fileId=201827)
 
 # Preparation
 Our code is based on [torch](http://torch.ch/docs/getting-started.html), and tested on Ubuntu 14.04.5 LTS, Lua 5.1.
